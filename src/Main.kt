@@ -1,3 +1,3 @@
 fun main(){
-    println(755 525522)
+    println("HELLO ttyuu")
 }
